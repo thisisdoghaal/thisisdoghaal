@@ -15,4 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="40" width="52" alt="git logo"  />  
   
+ <h2 align="center">Favourite Horror Movie</h2>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg](https://en.wikipedia.org/wiki/1408_(film)#/media/File:1408poster.jpg"/>  
+
+  
 </div>
